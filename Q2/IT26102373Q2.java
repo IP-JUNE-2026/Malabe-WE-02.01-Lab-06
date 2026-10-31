@@ -1,6 +1,6 @@
 
 public class Main {
-    public static void main(String[] args) {
+    public static void IT26102373Q2(String[] args) {
 
         // (a) 5 rows of $
         System.out.println("Pattern A:");
